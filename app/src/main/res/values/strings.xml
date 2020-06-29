@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TIA Two Activities</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message received</string>
+    <string name="bitton_reply">Reply</string>
+    <string name="your_reply">Enter your reply</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>

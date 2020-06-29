@@ -1,0 +1,2 @@
+rootProject.name='TIA Two Activities'
+include ':app'
